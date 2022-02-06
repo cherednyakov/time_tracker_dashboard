@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
+Mobile design
 ![Desktop design](design/desktop-design.jpg)
-![Mobile design](design/mobile-design.jpg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://cherednyakov.github.io/time_tracker_dashboard/)
+- Live Site URL: [Frontend Mentor | Time tracking dashboard](https://cherednyakov.github.io/time_tracker_dashboard/)
 
 ## My process
 
