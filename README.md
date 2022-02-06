@@ -42,6 +42,7 @@ Mobile design
 - CSS Grid
 - Vanilla JS
 - Mobile first
+- JSON
 
 ### Useful resources
 
